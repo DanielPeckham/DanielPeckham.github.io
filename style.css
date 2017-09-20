@@ -9,7 +9,7 @@ $card-clr: #545353;
   font-family: sans-serif;
 }
 html {
-  background-color: $helio-gry;
+  background-color: #3a393a;
 }
 .page-wrap {
   width: 950px;
@@ -35,7 +35,7 @@ header {
   justify-content: space-between;
 }
 time {
-  color: $header-clr;
+  color: #cdcdcd;
   font-size: 1.5em;
   margin: 0px;
 }
@@ -43,7 +43,7 @@ time {
   background-color: #545353;
 }
 .helio-choose div {
-    color: $logo-clr;
+    color: #ffc01f;
     font-weight: bold;
     padding-top: 10px;
     padding-left: 15px;
@@ -53,7 +53,7 @@ time {
   list-style: square inside;
 }
 li {
-  color: $content-clr;
+  color: #cdcdcd;
 }
 h2 {
   color: #ffc01f;
@@ -77,7 +77,7 @@ figcaption {
   bottom: 40px;
   padding: 6px;
   background: rgba(2, 2, 2, 0.7);
-  color: $content-clr;
+  color: #cdcdcd;
 
 }
 img:not([src^='https://heliotraining.com']){
@@ -90,7 +90,7 @@ img:not([src^='https://heliotraining.com']){
   margin-top: 20px;
 }
 .excited-learn {
-  color: $content-clr;
+  color: #cdcdcd;
   background: #545353;
   padding: 10px;
   margin-top: 20px;

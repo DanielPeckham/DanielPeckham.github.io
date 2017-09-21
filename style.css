@@ -96,7 +96,7 @@ img:not([src^='https://heliotraining.com']){
   margin-top: 20px;
 }
 h3 {
-  color: $logo-clr;
+  color: #ffc01f;
   font-weight: bold;
   margin-top: 0px;
 
